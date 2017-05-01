@@ -1,1 +1,2 @@
-# Discord-Bot
+# Stream-Bot
+Stream online!
